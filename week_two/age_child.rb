@@ -4,7 +4,7 @@ and then prints the string "Are we there yet?"
 once for each year of the child's age.
 =end
 
-print "Enter the age oft he child:"
+print "Enter the age of the child:"
 age = gets.chomp.to_i
 
 for i in 0...age
